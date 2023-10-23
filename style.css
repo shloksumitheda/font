@@ -1,0 +1,26 @@
+body{
+    text-align: center;
+    
+}
+
+#header{
+    background-color: red;
+    margin-top: 11px;
+}
+
+#footer{
+    position:fixed;
+    bottom:0;
+    width: 100%;
+    background-color:grey;
+    color: aliceblue;
+    font-size: 20px;
+    margin-bottom: 10px;
+}
+
+canvas{
+    border: 7px solid red;
+    border-radius: 20px;
+    box-shadow: 7px 7px 7px yellow;
+    
+}
